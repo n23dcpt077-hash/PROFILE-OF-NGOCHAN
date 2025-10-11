@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/d1/65/29/d1652995a1533ad549ddce515b2f22f9.jpg" alt="banner">
+  <img src="banner.jpeg" alt="banner">
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9572CB&center=true&vCenter=true&width=600&lines=Nguyễn+Thị+Ngọc+Hân;Branding+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=NGUYỄN+THỊ+NGỌC+HÂN;Branding+Designer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -104,11 +104,9 @@
 ### 💼 Kinh nghiệm
 - **Dự án cá nhân:**
   - Từng thực hiện một vài dự án thiết kế thời trung học.
-  - [Xem chi tiết dự án (PDF)]
     (Poster của dự án.pdf)
     (Dự án bán hàng MÌ ĐẬU NÀNH VÀ RAU MÁ ĐẬU XANH.pdf)
   - Bài tập năm nhất
-  - [Xem chi tiết (PDF)]
     (BÀI TẬP MÔN NHẬP MÔN ĐA PHƯƠNG TIỆN NĂM 1.pdf)
 - **Hoạt động ngoại khóa:**
   - Cộng tác viên Ban Truyền thông - Đoàn Thanh niên PTIT-HCM.
@@ -129,7 +127,12 @@
   - Trở thành một Branding Designer có chuyên môn cao, có khả năng xây dựng và phát triển hình ảnh thương hiệu một cách nhất quán và hiệu quả.
 
 ---
+<div align="center">
+  <h3>🐰 Hoạt động của mình trên GitHub 🐰</h3>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-bunny.svg" alt="github-contribution-grid-snake-bunny">
+</div>
 
 <p align="center">
+
   💙 Cảm ơn bạn đã xem hồ sơ của mình! 💙
 </p>
