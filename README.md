@@ -113,6 +113,7 @@
     [BÀI TẬP MÔN NHẬP MÔN ĐA PHƯƠNG TIỆN NĂM 1.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/B%C3%80I%20T%E1%BA%ACP%20M%C3%94N%20NH%E1%BA%ACP%20M%C3%94N%20%C4%90A%20PH%C6%AF%C6%A0NG%20TI%E1%BB%86N%20N%C4%82M%201.pdf)
 - **Hoạt động ngoại khóa:**
   - Cộng tác viên Ban Truyền thông - Đoàn Thanh niên PTIT-HCM.
+    
     <br>
     <img src="1.5.jpg" width="400" alt="Hoạt động Đoàn Thanh niên">
      <img src="HÀO KHÍ THÁNG 3.jpg" width="400" alt="Hoạt động Đoàn Thanh niên">
@@ -137,6 +138,9 @@
 
 
 <p align="center">
+
+
+
 
   💙 Cảm ơn bạn đã xem hồ sơ của mình! 💙
 </p>
