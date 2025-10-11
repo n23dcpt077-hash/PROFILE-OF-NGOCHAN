@@ -105,12 +105,12 @@
 - **Dự án cá nhân:**
   - Từng thực hiện một vài dự án thiết kế thời trung học.
     
-    ([Poster của dự án.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/Poster%20c%E1%BB%A7a%20d%E1%BB%B1%20%C3%A1n.pdf))
+    [Poster của dự án.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/Poster%20c%E1%BB%A7a%20d%E1%BB%B1%20%C3%A1n.pdf)
 
-     ([Dự án bán hàng MÌ ĐẬU NÀNH VÀ RAU MÁ ĐẬU XANH.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/D%E1%BB%B1%20%C3%A1n%20b%C3%A1n%20h%C3%A0ng%20M%C3%8C%20%C4%90%E1%BA%ACU%20N%C3%80NH%20V%C3%80%20RAU%20M%C3%81%20%C4%90%E1%BA%ACU%20XANH.pdf))
+     [Dự án bán hàng MÌ ĐẬU NÀNH VÀ RAU MÁ ĐẬU XANH.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/D%E1%BB%B1%20%C3%A1n%20b%C3%A1n%20h%C3%A0ng%20M%C3%8C%20%C4%90%E1%BA%ACU%20N%C3%80NH%20V%C3%80%20RAU%20M%C3%81%20%C4%90%E1%BA%ACU%20XANH.pdf)
   - Bài tập năm nhất
     
-    ([BÀI TẬP MÔN NHẬP MÔN ĐA PHƯƠNG TIỆN NĂM 1.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/B%C3%80I%20T%E1%BA%ACP%20M%C3%94N%20NH%E1%BA%ACP%20M%C3%94N%20%C4%90A%20PH%C6%AF%C6%A0NG%20TI%E1%BB%86N%20N%C4%82M%201.pdf))
+    [BÀI TẬP MÔN NHẬP MÔN ĐA PHƯƠNG TIỆN NĂM 1.pdf](https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN/blob/ea88b41c91dc3df19daa1b272b16a3a4be29ce41/B%C3%80I%20T%E1%BA%ACP%20M%C3%94N%20NH%E1%BA%ACP%20M%C3%94N%20%C4%90A%20PH%C6%AF%C6%A0NG%20TI%E1%BB%86N%20N%C4%82M%201.pdf)
 - **Hoạt động ngoại khóa:**
   - Cộng tác viên Ban Truyền thông - Đoàn Thanh niên PTIT-HCM.
     <br>
@@ -131,7 +131,7 @@
 
 ---
   
- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
