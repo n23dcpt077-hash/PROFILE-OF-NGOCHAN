@@ -16,7 +16,7 @@
 ---
 
 ### ⏰ Mục lục
-<div align="left">
+
 - [Giới thiệu nhanh](#-giới-thiệu-nhanh)
 - [Contact me](#-contact-me)
 - [Trình độ học vấn](#-trình-độ-học-vấn)
@@ -27,7 +27,7 @@
 ---
 
 ### 👋 Giới thiệu nhanh
-<div align="left">
+
 - Yêu thích thiết kế, thích sáng tạo và tìm hiểu những kiến thức về thiết kế đồ họa.
 - Mong muốn được học hỏi và phát triển kỹ năng trong môi trường chuyên nghiệp.
 - Mục tiêu: Trở thành một Branding Designer chuyên nghiệp.
