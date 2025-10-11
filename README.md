@@ -16,6 +16,7 @@
 ---
 
 ### ⏰ Mục lục
+<div align="left">
 - [Giới thiệu nhanh](#-giới-thiệu-nhanh)
 - [Contact me](#-contact-me)
 - [Trình độ học vấn](#-trình-độ-học-vấn)
@@ -26,24 +27,14 @@
 ---
 
 ### 👋 Giới thiệu nhanh
+<div align="left">
 - Yêu thích thiết kế, thích sáng tạo và tìm hiểu những kiến thức về thiết kế đồ họa.
 - Mong muốn được học hỏi và phát triển kỹ năng trong môi trường chuyên nghiệp.
 - Mục tiêu: Trở thành một Branding Designer chuyên nghiệp.
 
 ---
 
-### 💕 Contact me
-<p align="left">
-  <a href="mailto:n23dcpt077@student.ptithcm.edu.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/ncchanduke" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/ncchand.uke/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+
 
 ---
 
@@ -131,7 +122,22 @@
   - Trở thành một Branding Designer có chuyên môn cao, có khả năng xây dựng và phát triển hình ảnh thương hiệu một cách nhất quán và hiệu quả.
 
 ---
-  
+
+  ### 💕 Contact me
+<p align="center">
+  <a href="mailto:n23dcpt077@student.ptithcm.edu.vn" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/ncchanduke" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ncchand.uke/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </p>
