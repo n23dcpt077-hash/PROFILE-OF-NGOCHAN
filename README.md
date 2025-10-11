@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.jpeg" alt="banner">
+  <img src="https://i.pinimg.com/originals/77/d6/5b/77d65ba396eeae06ba52b8ce1b67caeb.gif" alt="banner">
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=NGUYỄN+THỊ+NGỌC+HÂN;Branding+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9572CB&center=true&vCenter=true&width=600&lines=NGUYỄN+THỊ+NGỌC+HÂN;🐰+BRANDING+DESIGNER+🐰" 
 </div>
 
 <div align="center">
@@ -127,9 +127,9 @@
   - Trở thành một Branding Designer có chuyên môn cao, có khả năng xây dựng và phát triển hình ảnh thương hiệu một cách nhất quán và hiệu quả.
 
 ---
-<div align="center">
-  <h3>🐰 Hoạt động của mình trên GitHub 🐰</h3>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-bunny.svg" alt="github-contribution-grid-snake-bunny">
+  
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <p align="center">
