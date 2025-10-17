@@ -3,124 +3,105 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Profile of Nguyễn Thị Ngọc Hân-N23DCPT077</title>
+    <title>Profile of Ngọc Hân</title>
     <meta name="description" content="Portfolio & Labs của n23dcpt077-hash" />
     <style>
       :root{
-        --max: 1100px;
-        --glass: rgba(255,255,255,.78);
-        --border: rgba(255,255,255,.35);
-        --shadow: 0 10px 30px rgba(0,0,0,.12);
-        --radius: 20px;
-        --grad: linear-gradient(135deg,#ff6b6b, #feca57, #54a0ff, #5f27cd);
+        --max: 1120px;
+        --radius: 22px;
+        --glass: rgba(255,255,255,.82);
+        --border: rgba(255,255,255,.38);
+        --shadow: 0 14px 38px rgba(0,0,0,.18);
+        --grad: conic-gradient(from 90deg at 20% 10%, #ff6b6b, #feca57, #48dbfb, #5f27cd, #ff6b6b);
       }
       *{box-sizing:border-box}
       html,body{height:100%}
       body{
-        margin:0; font-family: ui-sans-serif,system-ui,Segoe UI,Roboto,Arial,sans-serif;
-        color:#0f172a;
+        margin:0; font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Arial, sans-serif; color:#0f172a;
         background:
           radial-gradient(1200px 800px at -10% -20%, #ffd3e6 0%, transparent 60%),
           radial-gradient(1200px 900px at 110% 0%, #d6f0ff 0%, transparent 60%),
-          radial-gradient(1200px 900px at 50% 120%, #e8ffd6 0%, transparent 60%),
-          #fff;
+          radial-gradient(1200px 900px at 50% 120%, #e8ffd6 0%, transparent 60%), #fff;
       }
-      .bar{
-        height:6px; background:var(--grad); background-size:200% 200%;
-        animation: shift 6s ease-in-out infinite;
-      }
+      .bar{height:8px;background:var(--grad);background-size:200% 200%;animation:shift 6s ease-in-out infinite}
       @keyframes shift{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
-      .wrap{max-width:var(--max); margin:28px auto 60px; padding:0 20px}
-      header{display:flex; justify-content:space-between; align-items:center; gap:16px; flex-wrap:wrap}
-      .title{font-size:40px; margin:10px 0; line-height:1.15;
-        background:var(--grad); -webkit-background-clip:text; background-clip:text; color:transparent}
-      .sub{color:#334155}
-      .links a{margin-left:14px; color:#1d4ed8; text-decoration:none; font-weight:600}
+      .wrap{max-width:var(--max);margin:28px auto 64px;padding:0 22px}
+      header{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+      .title{font-size:44px;margin:8px 0;line-height:1.1;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+      .links a{margin-left:14px;color:#1d4ed8;text-decoration:none;font-weight:700}
       .links a:hover{text-decoration:underline}
-      .grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px}
+      .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
       .card{
-        background:var(--glass); backdrop-filter: blur(10px);
-        border:1px solid var(--border); border-radius:var(--radius); padding:18px;
-        box-shadow: var(--shadow); transition: transform .15s ease, box-shadow .15s ease;
+        background:var(--glass);backdrop-filter:blur(12px);border:1px solid var(--border);
+        border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);transition:transform .15s, box-shadow .15s
       }
-      .card:hover{transform: translateY(-4px); box-shadow:0 16px 36px rgba(0,0,0,.16)}
-      h2{margin:26px 0 12px; font-size:26px}
-      h3{margin:0 0 6px; font-size:18px}
-      a.btn{
-        display:inline-block; padding:10px 14px; border-radius:12px; font-weight:600; text-decoration:none;
-        background:var(--grad); color:white; box-shadow: var(--shadow)
-      }
-      .thumb{width:100%; height:160px; object-fit:cover; border-radius:14px; border:1px solid var(--border); background:#f8fafc}
-      .icons{display:flex; gap:8px; flex-wrap:wrap; margin-top:6px}
-      .tag{font-size:12px; padding:4px 10px; border-radius:999px; border:1px solid var(--border); background:rgba(255,255,255,.7)}
-      footer{margin-top:36px; color:#475569; text-align:center}
-      .section{margin-top:22px}
-      .hr{height:2px; background:var(--grad); border-radius:999px; opacity:.4; margin:26px 0}
+      .card:hover{transform:translateY(-4px);box-shadow:0 20px 44px rgba(0,0,0,.22)}
+      h2{margin:28px 0 12px;font-size:28px}
+      h3{margin:0 0 8px;font-size:19px}
+      a.btn{display:inline-block;padding:10px 14px;border-radius:14px;font-weight:700;text-decoration:none;background:var(--grad);color:#fff;box-shadow:var(--shadow)}
+      .thumb{width:100%;height:160px;object-fit:cover;border-radius:16px;border:1px solid var(--border);background:#f8fafc}
+      footer{margin-top:40px;color:#475569;text-align:center}
+      .hr{height:2px;background:var(--grad);border-radius:999px;opacity:.45;margin:26px 0}
+      .muted{color:#475569}
     </style>
   </head>
   <body>
     <div class="bar"></div>
     <div class="wrap">
       <header>
-        <div>
-          <div class="title">Profile of Ngọc Hân</div>
-          <div class="sub">Portfolio & Labs — GitHub Pages</div>
-        </div>
+        <div class="title">Profile of Ngọc Hân</div>
         <div class="links">
           <a href="https://github.com/n23dcpt077-hash" target="_blank" rel="noopener">GitHub</a>
-          <a href="https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN" target="_blank" rel="noopener">Repo này</a>
+          <a href="https://github.com/n23dcpt077-hash/PROFILE-OF-NGOCHAN" target="_blank" rel="noopener">Repo</a>
         </div>
       </header>
 
       <div class="hr"></div>
 
-      <section class="section">
+      <section>
         <h2>Featured Labs</h2>
         <div class="grid">
           <div class="card">
             <h3>LAB01 – Repo tổng</h3>
-            <p>Tổng hợp 8 lab nhỏ, tài liệu, hình.</p>
+            <p class="muted">Tổng hợp 8 lab nhỏ, tài liệu, hình.</p>
             <a class="btn" href="https://github.com/n23dcpt077-hash/se-atm-2025" target="_blank" rel="noopener">Xem repo</a>
           </div>
           <div class="card">
             <h3>LAB02</h3>
-            <p>Bài tập / nội dung tuần 2.</p>
+            <p class="muted">Bài tập / nội dung tuần 2.</p>
             <a class="btn" href="https://github.com/n23dcpt077-hash/LAB02" target="_blank" rel="noopener">Xem repo</a>
           </div>
           <div class="card">
             <h3>LAB03 – Login / Selenium</h3>
-            <p>Kiểm thử form đăng nhập.</p>
+            <p class="muted">Kiểm thử form đăng nhập.</p>
             <a class="btn" href="https://github.com/n23dcpt077-hash/LAB03-LOGIN" target="_blank" rel="noopener">Xem repo</a>
           </div>
           <div class="card">
             <h3>LECTURE05</h3>
-            <p>Use Case / Sequence / ERD.</p>
+            <p class="muted">Use Case / Sequence / ERD.</p>
             <a class="btn" href="https://github.com/n23dcpt077-hash/LECTURE05" target="_blank" rel="noopener">Xem repo</a>
           </div>
           <div class="card">
-            <h3>Tất cả Repositories</h3>
-            <p>Xem toàn bộ bài nộp khác.</p>
+            <h3>Tất cả Repos</h3>
+            <p class="muted">Xem toàn bộ bài nộp khác.</p>
             <a class="btn" href="https://github.com/n23dcpt077-hash?tab=repositories" target="_blank" rel="noopener">Mở danh sách</a>
           </div>
         </div>
       </section>
 
-      <section class="section">
+      <section>
         <h2>Files trong repo này</h2>
         <div id="files" class="grid"></div>
       </section>
 
-      <section class="section">
+      <section>
         <h2>Liên hệ</h2>
         <div class="card">
-          <div class="icons">
-            <span class="tag">Email</span>
-          </div>
-          <p><a class="btn" href="mailto:n23dcpt077@student.ptithcm.edu.vn">n23dcpt077@student.ptithcm.edu.vn</a></p>
+          <a class="btn" href="mailto:n23dcpt077@student.ptithcm.edu.vn">n23dcpt077@student.ptithcm.edu.vn</a>
         </div>
       </section>
 
-      <footer>© 2025 Ngọc Hân — Built with GitHub Pages</footer>
+      <footer>© 2025 Ngọc Hân — GitHub Pages</footer>
     </div>
 
     <script>
@@ -131,45 +112,26 @@
           const res=await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/contents`);
           const items=await res.json();
           const files=items.filter(x=>x.type==="file");
-          const priority=["jpg","jpeg","png","gif","webp","svg","pdf","ppt","pptx","doc","docx"];
+          const order=["jpg","jpeg","png","gif","webp","svg","pdf","ppt","pptx","doc","docx"];
           files.sort((a,b)=>{
             const ext=s=>(s.name.split(".").pop()||"").toLowerCase();
-            const ia=priority.indexOf(ext(a)), ib=priority.indexOf(ext(b));
+            const ia=order.indexOf(ext(a)), ib=order.indexOf(ext(b));
             return (ia===-1)-(ib===-1) || a.name.localeCompare(b.name);
           });
-          if(!files.length){
-            const empty=document.createElement("div");
-            empty.className="card";
-            empty.textContent="Chưa có tệp ở root repo.";
-            wrap.appendChild(empty);
-            return;
-          }
+          if(!files.length) return;
           for(const f of files){
-            const name=f.name;
-            const encoded=encodeURIComponent(name);
-            const href=`./${encoded}`;
+            const name=f.name, encoded=encodeURIComponent(name), url=`./${encoded}`;
             const isImg=/\.(png|jpe?g|gif|webp|bmp|svg)$/i.test(name);
-            const isDoc=/\.(pdf|docx?|pptx?)$/i.test(name);
-            const card=document.createElement("div");
-            card.className="card";
-            if(isImg){
-              const img=document.createElement("img");
-              img.className="thumb"; img.alt=name; img.loading="lazy"; img.src=href;
-              card.appendChild(img);
-            }
+            const card=document.createElement("div"); card.className="card";
+            if(isImg){ const img=new Image(); img.className="thumb"; img.alt=name; img.loading="lazy"; img.src=url; card.appendChild(img); }
             const h3=document.createElement("h3"); h3.textContent=name; card.appendChild(h3);
             const p=document.createElement("p");
-            p.innerHTML=`<a class="btn" href="${href}" target="_blank" rel="noopener">Mở / tải</a>
-              <span style="margin-left:10px"></span>
-              <a href="https://github.com/${OWNER}/${REPO}/blob/main/${encoded}" target="_blank" rel="noopener">Xem trên GitHub</a>`;
+            p.innerHTML=`<a class="btn" href="${url}" target="_blank" rel="noopener">Mở / tải</a>
+            &nbsp;&nbsp;<a href="https://github.com/${OWNER}/${REPO}/blob/main/${encoded}" target="_blank" rel="noopener">Xem trên GitHub</a>`;
             card.appendChild(p);
             wrap.appendChild(card);
           }
-        }catch(e){
-          const err=document.createElement("div");
-          err.className="card"; err.textContent="Không thể tải danh sách tệp (GitHub API).";
-          wrap.appendChild(err);
-        }
+        }catch(e){ /* im lặng */ }
       }
       renderFiles();
     </script>
