@@ -7,10 +7,8 @@
     <meta name="description" content="Portfolio & Labs của n23dcpt077-hash" />
     <style>
       :root{
-        --max: 1120px;
-        --radius: 22px;
-        --glass: rgba(255,255,255,.82);
-        --border: rgba(255,255,255,.38);
+        --max: 1120px; --radius: 22px;
+        --glass: rgba(255,255,255,.82); --border: rgba(255,255,255,.38);
         --shadow: 0 14px 38px rgba(0,0,0,.18);
         --grad: conic-gradient(from 90deg at 20% 10%, #ff6b6b, #feca57, #48dbfb, #5f27cd, #ff6b6b);
       }
@@ -38,11 +36,11 @@
       .card:hover{transform:translateY(-4px);box-shadow:0 20px 44px rgba(0,0,0,.22)}
       h2{margin:28px 0 12px;font-size:28px}
       h3{margin:0 0 8px;font-size:19px}
+      p.muted{color:#475569;margin-top:6px}
       a.btn{display:inline-block;padding:10px 14px;border-radius:14px;font-weight:700;text-decoration:none;background:var(--grad);color:#fff;box-shadow:var(--shadow)}
       .thumb{width:100%;height:160px;object-fit:cover;border-radius:16px;border:1px solid var(--border);background:#f8fafc}
       footer{margin-top:40px;color:#475569;text-align:center}
       .hr{height:2px;background:var(--grad);border-radius:999px;opacity:.45;margin:26px 0}
-      .muted{color:#475569}
     </style>
   </head>
   <body>
@@ -58,63 +56,65 @@
 
       <div class="hr"></div>
 
+      <!-- ===== FEATURED LABS: CŨ + 3 REPO MỚI ===== -->
       <section>
-  <h2>Featured Labs</h2>
-  <div class="grid">
-    <!-- các repo đã có -->
-    <div class="card">
-      <h3>LAB01 – Repo tổng</h3>
-      <p class="muted">Tổng hợp 8 lab nhỏ, tài liệu, hình.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/se-atm-2025" target="_blank" rel="noopener">Xem repo</a>
-    </div>
-    <div class="card">
-      <h3>LAB02</h3>
-      <p class="muted">Bài tập / nội dung tuần 2.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/LAB02" target="_blank" rel="noopener">Xem repo</a>
-    </div>
-    <div class="card">
-      <h3>LAB03 – Login / Selenium</h3>
-      <p class="muted">Kiểm thử form đăng nhập.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/LAB03-LOGIN" target="_blank" rel="noopener">Xem repo</a>
-    </div>
-    <div class="card">
-      <h3>LECTURE05</h3>
-      <p class="muted">Use Case / Sequence / ERD.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/LECTURE05" target="_blank" rel="noopener">Xem repo</a>
-    </div>
+        <h2>Featured Labs</h2>
+        <div class="grid">
+          <!-- Cũ -->
+          <div class="card">
+            <h3>LAB01 – Repo tổng</h3>
+            <p class="muted">Tổng hợp 8 lab nhỏ, tài liệu, hình.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/se-atm-2025" target="_blank" rel="noopener">Xem repo</a>
+          </div>
+          <div class="card">
+            <h3>LAB02</h3>
+            <p class="muted">Bài tập / nội dung tuần 2.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/LAB02" target="_blank" rel="noopener">Xem repo</a>
+          </div>
+          <div class="card">
+            <h3>LAB03 – Login / Selenium</h3>
+            <p class="muted">Kiểm thử form đăng nhập.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/LAB03-LOGIN" target="_blank" rel="noopener">Xem repo</a>
+          </div>
+          <div class="card">
+            <h3>LECTURE05</h3>
+            <p class="muted">Use Case / Sequence / ERD.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/LECTURE05" target="_blank" rel="noopener">Xem repo</a>
+          </div>
 
-    <!-- ✨ 3 repo mới -->
-    <div class="card">
-      <h3>Sprint 0 – Multichannel</h3>
-      <p class="muted">Khởi tạo sprint 0.</p>
-      <a class="btn" href="https://github.com/TuMaiNguyen/multichannel-sprint0" target="_blank" rel="noopener">Xem repo</a>
-    </div>
-    <div class="card">
-      <h3>LECTURE 5–6 – Requirements</h3>
-      <p class="muted">Đặc tả yêu cầu.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/Lecture56-Requirements" target="_blank" rel="noopener">Xem repo</a>
-    </div>
-    <div class="card">
-      <h3>LECTURE 5–6 – Analysis</h3>
-      <p class="muted">Phân tích & mô hình.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash/Lecture56-Analysis" target="_blank" rel="noopener">Xem repo</a>
-    </div>
+          <!-- MỚI -->
+          <div class="card">
+            <h3>Sprint 0 – Multichannel</h3>
+            <p class="muted">Khởi tạo sprint 0.</p>
+            <a class="btn" href="https://github.com/TuMaiNguyen/multichannel-sprint0" target="_blank" rel="noopener">Xem repo</a>
+          </div>
+          <div class="card">
+            <h3>Lecture 5–6 – Requirements</h3>
+            <p class="muted">Đặc tả yêu cầu.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/Lecture56-Requirements" target="_blank" rel="noopener">Xem repo</a>
+          </div>
+          <div class="card">
+            <h3>Lecture 5–6 – Analysis</h3>
+            <p class="muted">Phân tích & mô hình.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash/Lecture56-Analysis" target="_blank" rel="noopener">Xem repo</a>
+          </div>
 
-    <!-- nút xem toàn bộ -->
-    <div class="card">
-      <h3>Tất cả Repos</h3>
-      <p class="muted">Xem toàn bộ bài nộp khác.</p>
-      <a class="btn" href="https://github.com/n23dcpt077-hash?tab=repositories" target="_blank" rel="noopener">Mở danh sách</a>
-    </div>
-  </div>
-</section>
+          <!-- Nút xem tất cả -->
+          <div class="card">
+            <h3>Tất cả Repos</h3>
+            <p class="muted">Xem toàn bộ bài nộp khác.</p>
+            <a class="btn" href="https://github.com/n23dcpt077-hash?tab=repositories" target="_blank" rel="noopener">Mở danh sách</a>
+          </div>
+        </div>
+      </section>
 
-
+      <!-- ===== LIỆT KÊ FILES Ở ROOT REPO ===== -->
       <section>
         <h2>Files trong repo này</h2>
         <div id="files" class="grid"></div>
       </section>
 
+      <!-- ===== LIÊN HỆ ===== -->
       <section>
         <h2>Liên hệ</h2>
         <div class="card">
@@ -139,7 +139,6 @@
             const ia=order.indexOf(ext(a)), ib=order.indexOf(ext(b));
             return (ia===-1)-(ib===-1) || a.name.localeCompare(b.name);
           });
-          if(!files.length) return;
           for(const f of files){
             const name=f.name, encoded=encodeURIComponent(name), url=`./${encoded}`;
             const isImg=/\.(png|jpe?g|gif|webp|bmp|svg)$/i.test(name);
@@ -152,7 +151,12 @@
             card.appendChild(p);
             wrap.appendChild(card);
           }
-        }catch(e){ /* im lặng */ }
+          if(!files.length){
+            const empty=document.createElement("div");
+            empty.className="card"; empty.textContent="Chưa có tệp ở root repo.";
+            wrap.appendChild(empty);
+          }
+        }catch(e){}
       }
       renderFiles();
     </script>
